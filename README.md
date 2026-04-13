@@ -18,10 +18,9 @@ I am an AI Researcher and Backend Developer, currently pursuing my Master's degr
 * **Core Tech:** LangChain, RAG, LLM
 * **Contribution:** Automated the ESG (TCFD) disclosure report assessment process, boosting classification accuracy to 78.57% and reducing manual review workload by 80%.
 
-#### [Knowledge Wave - Cloud-Based ETL System]([https://github.com/hanyuany14/Knowledge-Waves]https://github.com/Mattis3858/Knowledge-Waves-Frontend)
+#### Knowledge Wave - Cloud-Based ETL System ([Backend](https://github.com/hanyuany14/Knowledge-Waves) | [Frontend](https://github.com/Mattis3858/Knowledge-Waves-Frontend))
 * **Role:** Data & Backend Developer
 * **Core Tech:** GCP (BigQuery, GCS), Python, Web Scraping
-* 
 * **Contribution:** Developed an automated NLP pipeline handling 1,000+ daily tech articles, managing data extraction, translation, and real-time visualization via Looker Studio.
 
 #### [TeaJourney - AI-Powered Tea Tasting Platform](https://drive.google.com/drive/folders/1WLwCg-07FD2zUPE5z-a5j6LVva7Hn6T1?usp=sharing)
