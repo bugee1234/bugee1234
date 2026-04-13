@@ -31,4 +31,4 @@ I am an AI Researcher and Backend Developer, currently pursuing my Master's degr
 
 ### Let's Connect
 
-- **Email:** bugee1234@gmail.com
+- **Email:** mailto:chiehshu.kou@gmail.com
