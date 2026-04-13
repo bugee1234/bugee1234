@@ -3,20 +3,21 @@
 I am an AI Researcher and Backend Developer, currently pursuing my Master's degree in Management Information Systems at National Chengchi University (NCCU). My passion lies in building robust AI applications, exploring the limits of **Large Language Models (LLMs)**, and solving complex problems through **Natural Language Processing (NLP)**.
 
 ### Highlighted Projects & Research
+
 #### AI-Powered Praise Generation System (Office of the President Project)
 * **Role:** AI R&D Intern / Full-Stack Developer @ Ai3.co
 * **Core Tech:** LLaMA, Gemma, FastAPI, Vue, Docker
 * **Contribution:** Engineered a multi-stage generation pipeline, applying prompt engineering, parameter tuning, and strict token-limit strategies to prevent context overflow in complex prompt chains, ensure output coherence, and enforce strict official document formats. Developed and containerized a thread-safe FastAPI/Vue system to prevent GPU OOM during deployment.
 
-#### [Medical Hallucination Detection & NLP Pipeline (Master's Thesis)]
-* **Role:** Lead Researcher
-* **Core Tech:** LLMs, RAG, NLP
-* **Contribution:** Developed an automated NLP pipeline for clinical text rewriting and implemented a RAG-based multiple-choice evaluation mechanism to detect LLM hallucinations.
-
 #### [Automated TCFD Report Assessment System](https://github.com/Mattis3858/Automated-model-to-assess-TCFD-reports)
 * **Role:** AI Researcher @ NSTC Project
 * **Core Tech:** LangChain, RAG, LLM
 * **Contribution:** Automated the ESG (TCFD) disclosure report assessment process, boosting classification accuracy to 78.57% and reducing manual review workload by 80%.
+
+#### Medical Hallucination Detection & NLP Pipeline (Master's Thesis)
+* **Role:** Lead Researcher
+* **Core Tech:** LLMs, RAG, NLP
+* **Contribution:** Developed an automated NLP pipeline for clinical text rewriting and implemented a RAG-based multiple-choice evaluation mechanism to detect LLM hallucinations.
 
 #### Knowledge Wave - Cloud-Based ETL System ([Backend](https://github.com/hanyuany14/Knowledge-Waves) | [Frontend](https://github.com/Mattis3858/Knowledge-Waves-Frontend))
 * **Role:** Data & Backend Developer
