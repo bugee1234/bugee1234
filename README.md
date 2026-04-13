@@ -28,6 +28,6 @@ I am an AI Researcher and Backend Developer, currently pursuing my Master's degr
 * **Core Tech:** Python (Flask), Siamese Neural Network (CNN), Next.js
 * **Contribution:** Achieved 77% accuracy in tea concentration recognition using a custom Siamese NN trained on 14,000+ images. **Awarded 2023 InnoServe Awards National Honorable Mention.**
 
-### 📫 Let's Connect
+### Let's Connect
 
 - **Email:** bugee1234@gmail.com
